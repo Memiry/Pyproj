@@ -13,8 +13,9 @@ from sklearn.metrics import classification_report, confusion_matrix, accuracy_sc
 # 设置绘图风格
 sns.set(style="whitegrid")
 
+
 # ==========================================
-# 1. 模块：高级数据模拟器 (IoT Traffic Simulator)
+# 1. 模块：高级数据模拟器 (IoT Traffic Simulator) 测试上传
 # ==========================================
 # 在真实项目中，这里会替换为读取 .pcap 转出的 CSV 文件
 # 这里我们模拟生成具有统计规律的“流特征”数据

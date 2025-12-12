@@ -1,1 +1,1 @@
-Hello, this is a test for   ELEC872 COURSES
+Hello, this is a project repo for ELEC877 COURSE
